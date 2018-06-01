@@ -1,0 +1,37 @@
+
+.padding-bottom{
+	padding-bottom: 50px;
+}
+..panel-group .panel {
+	border-radius: 0px !important;
+
+}
+.panel-collapse {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+}
+.panel .panel-heading, .checkout-progress-sidebar .panel .panel-heading{
+	font-family: 'FjallaOneRegular' !important;
+  	font-size: 20px;
+  	border-radius: 0px;
+	text-transform: uppercase;
+}
+.c-s-1 .panel-body {
+  padding: 50px;
+}
+.panel-heading .ddtech-checkout-title {
+  margin: 0px !important;
+}
+.checkout-progress-sidebar .panel .panel-heading{
+  padding: 27px 30px;
+  border-bottom: 1px solid #ddd;
+}
+
+.panel .panel-heading .ddtech-checkout-title .collapsed span {
+  background-color: #3498db;
+  color: #fff !important;
+  display: inline-block;
+  margin-right: 10px;
+  padding: 15px 20px;
+}

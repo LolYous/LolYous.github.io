@@ -1,0 +1,60 @@
+.padding-contact {
+    padding: 20px 0px;
+}
+.map{height: 400px;
+	 width: 100%;
+	 display:block !important;
+	}
+.p-contact .c-info{
+	font-size: 12px;
+	color: #666;
+}
+.p-contact .c-info .address,.p-contact .c-info .telefono-no{
+	margin-bottom: 10px;
+}
+.p-contact .c-info .c-s {
+    display: block;
+}
+.p-contact .c-info .c-i{
+	background-color: #3498db;
+	    display: inline-block;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    border-radius: 50px;
+    color: #fff;
+    margin-right: 16px;
+    float: left;
+}
+.p-contact .c-info .c-i i{
+	padding-top: 8px;
+	font-size: 14px;
+}
+.f-g{margin-bottom: 15px;}
+
+.p-contact .c-f form label,.p-contact .c-f form input{
+	font-size: 13px,
+	font-weight:normal;
+	color: #555;
+} 
+.mensaje{
+	height: 200px !important;
+	resize: none;	
+}
+.btn-primary:hover, .btn-primary:focus {
+	background:#3498db;
+}
+.btn-primary{
+	
+	background: #a8a8a8;
+    color: #fff;
+    border: none;
+    font-size: 13px;
+    line-height: 22px;
+}
+.btn-upper{
+	text-transform: uppercase;
+}
+.outer-top-bd{
+	margin-top: 40px;
+}
